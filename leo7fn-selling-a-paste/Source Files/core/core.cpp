@@ -325,7 +325,6 @@ namespace Core {
 		if (config_system.item.SpinBot) {
 			if (Util::SpoofCall(GetAsyncKeyState, config_system.keybind.Spinbot) && Util::SpoofCall(GetForegroundWindow) == TargetWindow) {
 
-				// Freeze Cam
 				viewInfo->Location = CurrentLocation;
 				viewInfo->Rotation.Yaw = CurrentYaw;
 				viewInfo->Rotation.Pitch = CurrentPitch;
