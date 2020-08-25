@@ -1,4 +1,4 @@
-﻿/*
+/*
 leo7fn is selling a pasted cheat (batleye) here is proof kek
 leo7fn saying its not even pasted retard here is his src
 cracked
@@ -195,10 +195,9 @@ VOID EndScene(ImGuiWindow& window) {
 		ImGui::GetStyle().FrameRounding = 4.0f;
 
 
-			ImGui::Begin("Nvision.Solutions", 0, ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize); {
+			ImGui::Begin("leo7fn stop selling pasted cheats you doesnt know how to code in cpp and how to even dump offsets cracked by visual#9999", 0, ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize); {
 			ImGui::SetWindowSize(ImVec2(600, 450), ImGuiCond_FirstUseEver);
 
-			ImGui::Text("__________________________________________________________________________________________________________");
 			ImGui::Text("", 1000.0f / ImGui::GetIO().Framerate, ImGui::GetIO().Framerate);
 
 			ImVec2 size = ImGui::GetItemRectSize();
@@ -206,13 +205,13 @@ VOID EndScene(ImGuiWindow& window) {
 			static int switchTabs = 3;
 
 			ImGui::SameLine(0.0, 2.0f);
-			if (ImGui::Button("Aimbot", ImVec2(180.0f, 0.0f)))
+			if (ImGui::Button("batleye pasted Aimbot", ImVec2(180.0f, 0.0f)))
 				switchTabs = 0;
 			ImGui::SameLine(0.0, 2.0f);
-			if (ImGui::Button("Visuals", ImVec2(180.0f, 0.0f)))
+			if (ImGui::Button("batleye pasted Visuals", ImVec2(180.0f, 0.0f)))
 				switchTabs = 1;
 			ImGui::SameLine(0.0, 2.0f);
-			if (ImGui::Button("Mods", ImVec2(180.0f, 0.0f)))
+			if (ImGui::Button("batleye pasted Mods", ImVec2(180.0f, 0.0f)))
 				switchTabs = 2;
 	
 
@@ -222,61 +221,58 @@ VOID EndScene(ImGuiWindow& window) {
 				ImGui::Text(" ");
 				ImGui::Text("Aimbot");
 				ImGui::Text(" ");
-				ImGui::Checkbox(("[/] Aimbot"), &config_system.item.Aimbot);
-				ImGui::Checkbox(("[/] Slient"), &config_system.item.SilentAimbot);
-				ImGui::Checkbox(("[/] Triggerbot"), &config_system.item.TriggerAimbot);
+				ImGui::Checkbox(("batleye pasted [/] Aimbot"), &config_system.item.Aimbot);
+				ImGui::Checkbox(("batleye pasted [/] Slient"), &config_system.item.SilentAimbot);
+				ImGui::Checkbox(("batleye pasted [/] Triggerbot"), &config_system.item.TriggerAimbot);
 				ImGui::Text(" ");
-				ImGui::Text("Aimbot Options");
+				ImGui::Text("batleye pasted Aimbot Options");
 				ImGui::Text(" ");
-				ImGui::SliderFloat(("Aim Fov"), &config_system.item.AimbotFOV, 0.0f, 1000.0f, ("%.2f"));
-				ImGui::SliderFloat(("Aim Smoothing"), &config_system.item.AimbotSlow, 0.0f, 25.0f, ("%.2f"));
+				ImGui::SliderFloat(("batleye pasted Aim Fov"), &config_system.item.AimbotFOV, 0.0f, 1000.0f, ("%.2f"));
+				ImGui::SliderFloat(("batleye pasted Aim Smoothing"), &config_system.item.AimbotSlow, 0.0f, 25.0f, ("%.2f"));
 				ImGui::Text(" ");
 
 				ImGui::Text(" ");
-				ImGui::Text("About");
+				ImGui::Text("batleye pastedAbout");
 				ImGui::Text(" ");
-				ImGui::Text("Developer : Snc Kerua ✭#5841");
-				ImGui::Text("Owner 1 : Snc Kerua ✭#5841");
-				ImGui::Text("Owner 2 : YANFONE#8042");
-				ImGui::Text("Owner 3 : KiraWeb$#6666");
+				ImGui::Text("paster: leo7fn retard");
 				if (ImGui::Button("Discord"))
 				{
-					system("start https://discord.gg/E8Br4fQ");
+					system("start https://batleye pasted.com");
 				}
 			}
 			ImGui::SameLine();
 			switch (switchTabs) {
 			case 1:
 				ImGui::Text(" ");
-				ImGui::Text("Visuals");
+				ImGui::Text("batleye pasted Visuals");
 				ImGui::Text(" ");
-				ImGui::Text("---Player---");
+				ImGui::Text("batleye pasted ---Player---");
 				ImGui::Text(" ");
-				ImGui::Checkbox(("[+] Player ESP"), &config_system.item.Players);
-				ImGui::Checkbox(("[+] Box ESP"), &config_system.item.PlayerBox);
-				ImGui::Checkbox(("[+] Corner ESP"), &config_system.item.PlayersCorner);
-				ImGui::Checkbox(("[+] Line ESP"), &config_system.item.PlayerLines);
-				ImGui::Checkbox(("[+] Name ESP"), &config_system.item.PlayerNames);
+				ImGui::Checkbox(("batleye pasted [+] Player ESP"), &config_system.item.Players);
+				ImGui::Checkbox(("batleye pasted [+] Box ESP"), &config_system.item.PlayerBox);
+				ImGui::Checkbox(("batleye pasted [+] Corner ESP"), &config_system.item.PlayersCorner);
+				ImGui::Checkbox(("batleye pasted [+] Line ESP"), &config_system.item.PlayerLines);
+				ImGui::Checkbox(("batleye pasted [+] Name ESP"), &config_system.item.PlayerNames);
 				ImGui::Text(" ");
-				ImGui::Text("---World---");
+				ImGui::Text("batleye pasted ---World---");
 				ImGui::Text(" ");
-				ImGui::Checkbox(("[+] Chest ESP"), &config_system.item.Chest);
-				ImGui::Checkbox(("[+] Llama ESP"), &config_system.item.Llama);
-				ImGui::Checkbox(("[+] Ammo ESP"), &config_system.item.Ammo);
-				ImGui::Checkbox(("[+] Boat ESP"), &config_system.item.boat);
-				ImGui::Checkbox(("[+] Chopper ESP"), &config_system.item.chopper);
+				ImGui::Checkbox(("batleye pasted [+] Chest ESP"), &config_system.item.Chest);
+				ImGui::Checkbox(("batleye pasted [+] Llama ESP"), &config_system.item.Llama);
+				ImGui::Checkbox(("batleye pasted [+] Ammo ESP"), &config_system.item.Ammo);
+				ImGui::Checkbox(("batleye pasted [+] Boat ESP"), &config_system.item.boat);
+				ImGui::Checkbox(("batleye pasted [+] Chopper ESP"), &config_system.item.chopper);
 			}
 			switch (switchTabs) {
 			case 2:
 				ImGui::Text(" ");
-				ImGui::Text("Mods");
+				ImGui::Text("batleye pasted Mods");
 				ImGui::Text(" ");
-				ImGui::Checkbox(("[!] No Spread"), &config_system.item.NoSpreadAimbot);
-				ImGui::Checkbox(("[!] Sniper TP"), &config_system.item.BulletTP);
-				ImGui::Checkbox(("[!] Spinbot (CAPSLOCK)"), &config_system.item.SpinBot);
-				ImGui::Checkbox(("[!] Rapid Fire (use Burst!)"), &config_system.item.RapidFire);
-				ImGui::Checkbox(("[!] Crosshair"), &config_system.item.Crosshair);
-				ImGui::Checkbox(("[!] Airstuck"), &config_system.item.AirStuck);
+				ImGui::Checkbox(("batleye pasted [!] No Spread"), &config_system.item.NoSpreadAimbot);
+				ImGui::Checkbox(("batleye pasted [!] Sniper TP"), &config_system.item.BulletTP);
+				ImGui::Checkbox(("batleye pasted [!] Spinbot (CAPSLOCK)"), &config_system.item.SpinBot);
+				ImGui::Checkbox(("batleye pasted [!] Rapid Fire (use Burst!)"), &config_system.item.RapidFire);
+				ImGui::Checkbox(("batleye pasted [!] Crosshair"), &config_system.item.Crosshair);
+				ImGui::Checkbox(("batleye pasted [!] Airstuck"), &config_system.item.AirStuck);
 
 			}
 		
