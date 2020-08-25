@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (x64\Release\) contient des fichiers partagés provenant d'un autre projet (TrueAim.vcxproj, ZeyroxFN.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1044,5): warning MSB8027: Deux ou plusieurs fichiers avec le nom FortUpdaters.cpp généreront des sorties vers le même emplacement. Cela peut entraîner une génération incorrecte. Les fichiers impliqués sont Header Files\FortUpdaters\FortUpdaters.cpp, Source Files\FortUpdaters\FortUpdaters.cpp.
+  menu.cpp
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Header Files\includes.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS' : redéfinition de macro
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp : message : voir la définition précédente de '_CRT_SECURE_NO_WARNINGS'
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(111,33): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(113,41): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(114,69): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(232,17): warning C4566: le caractère représenté par le nom de caractère universel '\u272D' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(233,17): warning C4566: le caractère représenté par le nom de caractère universel '\u272D' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(532,45): warning C4244: 'argument' : conversion de 'float' en 'DWORD', perte possible de données
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(554,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(691,72): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(763,16): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\utilisateur\Downloads\source\source\TrueAim\Source Files\menu\menu.cpp(778,15): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+x64\Release\FortUpdaters.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+     Création de la bibliothèque .\x64\Release\Release\nvision.lib et de l'objet .\x64\Release\Release\nvision.exp
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'LIBCMT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  Génération de code en cours
+  1 of 1475 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TrueAim.vcxproj -> C:\Users\utilisateur\Downloads\source\source\TrueAim\.\x64\Release\Release\nvision.dll
